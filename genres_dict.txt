@@ -1,0 +1,4 @@
+MOBA, dota, league of legends
+FPS, cs:go, call of duty, battlefield
+MMORPG, perfect world, world of warcraft
+STRATEGY, hearts of iron, europa universalis, civilization
